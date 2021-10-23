@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-23T15:51:16.441Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="iZMlEsfFaDZDT7bvlbvr" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-23T15:55:03.022Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="6rvV_5_vQ3qMig3NxbiO" version="15.5.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="5194" dy="1333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -636,7 +636,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hWQddbPDoyMkkFQ2waqC-186" value="Seriennummernerfassung?" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="hWQddbPDoyMkkFQ2waqC-186" value="Seriennummern-erfassung?" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1545" y="1530" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hWQddbPDoyMkkFQ2waqC-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hWQddbPDoyMkkFQ2waqC-189" target="hWQddbPDoyMkkFQ2waqC-183" edge="1">
