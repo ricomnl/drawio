@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-23T15:55:22.410Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="svEPoU8trnW5_YE4W-90" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-23T15:57:37.163Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="GEJhsexMwxdhrhW8YMwm" version="15.5.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="5194" dy="1333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -663,19 +663,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hWQddbPDoyMkkFQ2waqC-200" value="&lt;b&gt;Artikel&lt;/b&gt;&amp;nbsp;und &lt;b&gt;Rechnung&lt;/b&gt; verpacken" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1760" y="2220" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1760" y="2330" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="k3KfJ9GzzYfVn4YLR1EG-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hWQddbPDoyMkkFQ2waqC-201" target="k3KfJ9GzzYfVn4YLR1EG-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hWQddbPDoyMkkFQ2waqC-201" value="&lt;b&gt;Lieferung&lt;/b&gt; an einen Logistikpartner übergeben" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1760" y="2448" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1760" y="2558" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hWQddbPDoyMkkFQ2waqC-205" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hWQddbPDoyMkkFQ2waqC-202" target="hWQddbPDoyMkkFQ2waqC-201" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hWQddbPDoyMkkFQ2waqC-202" value="&lt;b&gt;Sendungsdaten &lt;/b&gt;speichern" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1760" y="2333" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1760" y="2443" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="k3KfJ9GzzYfVn4YLR1EG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k3KfJ9GzzYfVn4YLR1EG-0" target="k3KfJ9GzzYfVn4YLR1EG-2">
           <mxGeometry relative="1" as="geometry" />
@@ -709,7 +709,7 @@
           <mxGeometry x="-1280" y="870" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="k3KfJ9GzzYfVn4YLR1EG-12" value="&lt;b&gt;Lieferungs&lt;/b&gt;zustand&lt;b&gt;&amp;nbsp;&lt;/b&gt;= &quot;Versandt&quot;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1760" y="2563" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1760" y="2673" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="k3KfJ9GzzYfVn4YLR1EG-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k3KfJ9GzzYfVn4YLR1EG-14" target="hWQddbPDoyMkkFQ2waqC-196">
           <mxGeometry relative="1" as="geometry" />
@@ -751,7 +751,7 @@
         <mxCell id="k3KfJ9GzzYfVn4YLR1EG-25" value="&lt;b&gt;Auftrags&lt;/b&gt;positionszustand = &quot;Abgerechnet&quot;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1600" y="2140" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k3KfJ9GzzYfVn4YLR1EG-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k3KfJ9GzzYfVn4YLR1EG-32" target="hWQddbPDoyMkkFQ2waqC-200">
+        <mxCell id="k3KfJ9GzzYfVn4YLR1EG-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k3KfJ9GzzYfVn4YLR1EG-32" target="k3KfJ9GzzYfVn4YLR1EG-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k3KfJ9GzzYfVn4YLR1EG-32" value="&lt;b&gt;Rechnung&lt;/b&gt;&amp;nbsp;der Lieferung beilegen" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -772,6 +772,12 @@
           <mxGeometry x="-0.4824" y="-1" relative="1" as="geometry">
             <mxPoint x="21" y="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="k3KfJ9GzzYfVn4YLR1EG-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k3KfJ9GzzYfVn4YLR1EG-36" target="hWQddbPDoyMkkFQ2waqC-200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3KfJ9GzzYfVn4YLR1EG-36" value="&lt;b&gt;Rechnung&lt;/b&gt;szustand = &quot;Aktiv&quot;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1760" y="2220" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
