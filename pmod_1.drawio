@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-23T15:33:10.835Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="jlEwK0_p7Fw-7WXHc0M6" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-23T15:42:20.331Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="89J3IlaaLGCM8O-zHebl" version="15.5.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="5194" dy="1333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -668,7 +668,7 @@
         <mxCell id="k3KfJ9GzzYfVn4YLR1EG-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hWQddbPDoyMkkFQ2waqC-201" target="k3KfJ9GzzYfVn4YLR1EG-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hWQddbPDoyMkkFQ2waqC-201" value="Lieferung an einen Logistikpartner übergeben" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="hWQddbPDoyMkkFQ2waqC-201" value="&lt;b&gt;Lieferung&lt;/b&gt; an einen Logistikpartner übergeben" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1760" y="2176" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hWQddbPDoyMkkFQ2waqC-205" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hWQddbPDoyMkkFQ2waqC-202" target="hWQddbPDoyMkkFQ2waqC-201" edge="1">
