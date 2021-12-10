@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-10T11:28:56.449Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="l45C58mdHR_-6XXYGrOS" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-10T12:04:56.886Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="VS0XSahtuVxH8LPFVD_s" version="15.9.4" type="github">
   <diagram id="Y7BzhW1sRgyEYJ8LDBmf" name="Page-1">
-    <mxGraphModel dx="4547" dy="2238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4547" dy="2302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -542,8 +542,8 @@
         <mxCell id="QsZJRgppgTLCYiTQSC_W-208" value="Bestellung entgegenehmen" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-533" y="-180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QsZJRgppgTLCYiTQSC_W-209" value="Auftragsbestätigung senden" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="173" y="-180" width="120" height="80" as="geometry" />
+        <mxCell id="QsZJRgppgTLCYiTQSC_W-209" value="Zahlungsart überprüfen" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="-180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QsZJRgppgTLCYiTQSC_W-211" value="Kundenkonto indentifizieren" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-393" y="-180" width="120" height="80" as="geometry" />
@@ -558,7 +558,7 @@
           <mxGeometry x="33" y="-180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QsZJRgppgTLCYiTQSC_W-215" value="Artikel&lt;br&gt;disponieren" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="313" y="-180" width="120" height="80" as="geometry" />
+          <mxGeometry x="438" y="-180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QsZJRgppgTLCYiTQSC_W-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QsZJRgppgTLCYiTQSC_W-216" target="QsZJRgppgTLCYiTQSC_W-219" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1099,6 +1099,9 @@
         </mxCell>
         <mxCell id="8rRIzvL7d8ljatfWhlpc-7" value="X" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-590" y="1950" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8rRIzvL7d8ljatfWhlpc-11" value="Auftragsbestätigung senden" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="-180" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
